@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Winbox
+GenericName=Configuration tool for RouterOS
+Comment=Configuration tool for RouterOS
+Exec=wine /opt/winbox/winbox.exe
+Icon=/opt/winbox/winbox.jpg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;RemoteAccess;
+Keywords=winbox;mikrotik;
+Type=Application
