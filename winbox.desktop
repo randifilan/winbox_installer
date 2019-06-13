@@ -10,3 +10,4 @@ StartupNotify=true
 Categories=Network;RemoteAccess;
 Keywords=winbox;mikrotik;
 Type=Application
+
