@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Winbox
+Name=Winbox32
 GenericName=Configuration tool for RouterOS
 Comment=Configuration tool for RouterOS
 Exec=wine /opt/winbox/winbox.exe
