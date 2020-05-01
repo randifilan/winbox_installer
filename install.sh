@@ -1,6 +1,6 @@
 #!/bin/bash
 ##
-## WInbox Installer
+## Winbox Installer
 ##
 ## Author : Gusriandi / Randy Filan
 ## Email  : randimaskil9@gmail.com / randi@cit.co.id
@@ -16,6 +16,8 @@
 ## sudo bash install.sh
 ## 
 
-apt install -y wine64
-cp -rf winbox /opt/
-cp -rf winbox.desktop /usr/share/applications/
+apt update
+apt install -y wine wine64
+mv -rf winbox /opt/
+mv -rf winbox32.desktop /usr/share/applications/
+mv -rf winbox64.desktop /usr/share/applications/

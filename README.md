@@ -1,5 +1,5 @@
 # winbox_installer
-Create winbox installer for Ubuntu.
+Create winbox installer for Debian, Ubuntu, and derivatif.
 
 How to use :
 1. Open terminal and enter root mode with "sudo su" command.
