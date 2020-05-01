@@ -3,7 +3,7 @@
 ## Winbox Installer by Randy Filan
 ##
 ## Author : Gusriandi / Randy Filan
-## Email  : randimaskil9@gmail.com / randi@cit.co.id
+## Email  : randimaskil9@gmail.com
 ##
 ## Licensed under GPL V3
 ## Please refer to https://www.gnu.org/licenses/gpl-3.0.en.html
