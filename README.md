@@ -15,6 +15,6 @@ How to use :
 5. install from install.sh file.
    root@SEKTOR4:~/winbox_installer-master# sh install.sh
    
-6. done and now open the winbox from app launcer.
+6. Done and now open the winbox from app launcer.
 
 
