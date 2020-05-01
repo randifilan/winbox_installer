@@ -1,6 +1,6 @@
 #!/bin/bash
 ##
-## Winbox Installer
+## Winbox Installer by Randy Filan
 ##
 ## Author : Gusriandi / Randy Filan
 ## Email  : randimaskil9@gmail.com / randi@cit.co.id
@@ -16,6 +16,7 @@
 ## sudo bash install.sh
 ## 
 
+echo "a Simple script for installing winbox"
 apt update
 apt install -y wine wine64
 mv -rf winbox /opt/
